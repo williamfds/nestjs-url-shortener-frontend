@@ -1,0 +1,13 @@
+{
+  "title": "URL Shortener",
+  "subtitle": "Paste a long URL below to shorten it.",
+  "inputPlaceholder": "Enter a URL...",
+  "buttonShorten": "Shorten",
+  "shortenSuccess": "URL shortened successfully!",
+  "errorInvalidUrl": "Please enter a valid URL.",
+  "errorApi": "An error occurred while contacting the API.",
+  "copyButton": "Copy",
+  "copied": "Copied!",
+  "copySuccess": "Link copied to clipboard!",
+  "copyFail": "Failed to copy link."
+}

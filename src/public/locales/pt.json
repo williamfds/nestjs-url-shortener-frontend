@@ -1,0 +1,13 @@
+{
+  "title": "Encurtador de URLs",
+  "subtitle": "Cole uma URL longa abaixo para encurtar.",
+  "inputPlaceholder": "Digite uma URL...",
+  "buttonShorten": "Encurtar",
+  "shortenSuccess": "URL encurtada com sucesso!",
+  "errorInvalidUrl": "Por favor, insira uma URL válida.",
+  "errorApi": "Ocorreu um erro ao se comunicar com a API.",
+  "copyButton": "Copiar",
+  "copied": "Copiado!",
+  "copySuccess": "Link copiado para a área de transferência!",
+  "copyFail": "Falha ao copiar o link."
+}
